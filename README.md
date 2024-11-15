@@ -1,0 +1,2 @@
+# afd_kompakt
+This code allows to extract teasers (titles, teaser texts, links) of 'Brennpunkt' articles in the Alternative für Deutschland's (AfD) digital membership magazine 'Kompakt' (https://afdkompakt.de/im-brennpunkt/).
